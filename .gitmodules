@@ -1,0 +1,6 @@
+[submodule "pet-manager"]
+	path = pet-manager
+	url = https://github.com/batskel/pet-manager.git
+[submodule "pet-bot"]
+	path = pet-bot
+	url = https://github.com/batskel/pet-bot.git
